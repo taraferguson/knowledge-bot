@@ -1,1 +1,2 @@
-# knowledge-bot
+# sbhelper
+Sessionboard knowledge base helper
